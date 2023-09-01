@@ -4,8 +4,6 @@ const brainjs = require("brain.js")
 
 const getAcess = async () => {
 
-    const email = "prince.paswan@pw.live";
-    const password = "kgvf514c0i"
 
     await axios({
         method: "post",
